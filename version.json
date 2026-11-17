@@ -1,7 +1,7 @@
 {
-  "versionCode": 101,
-  "versionName": "1.3.1",
+  "versionCode": 102,
+  "versionName": "1.3.2",
   "apkUrl": "https://Wayen1022.github.io/tiboss-update/tiboss.apk",
   "size": 2295300,
-  "notes": "答题界面题目下方新增题库来源小字"
+  "notes": "安装器兼容修复：更新包改用content URI共享，适配安卓9电视与机顶盒"
 }
