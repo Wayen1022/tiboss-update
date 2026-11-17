@@ -1,7 +1,7 @@
 {
-  "versionCode": 91,
-  "versionName": "1.2.7",
+  "versionCode": 92,
+  "versionName": "1.2.8",
   "apkUrl": "https://Wayen1022.github.io/tiboss-update/tiboss.apk",
   "size": 2295300,
-  "notes": "登录页标题强制单行显示"
+  "notes": "删除按钮高度修正；诊断面板显示版本号与扩展信息"
 }
