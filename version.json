@@ -1,7 +1,7 @@
 {
-  "versionCode": 95,
-  "versionName": "1.2.11",
+  "versionCode": 96,
+  "versionName": "1.2.12",
   "apkUrl": "https://Wayen1022.github.io/tiboss-update/tiboss.apk",
   "size": 2295300,
-  "notes": "修复更新下载校验漏洞：截断包必拦，彻底杜绝解析失败"
+  "notes": "后台大改版：banner饱满布局；删除题库改为独立按钮+弹层选择+二次确认；修复开关滑点溢出；修复下载校验漏洞"
 }
