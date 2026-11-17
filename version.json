@@ -1,7 +1,7 @@
 {
-  "versionCode": 94,
-  "versionName": "1.2.10",
+  "versionCode": 95,
+  "versionName": "1.2.11",
   "apkUrl": "https://Wayen1022.github.io/tiboss-update/tiboss.apk",
   "size": 2295300,
-  "notes": "删除题库按钮等高优化：与开关滑轨严格等高，留白舒适，电视端不再变形"
+  "notes": "修复更新下载校验漏洞：截断包必拦，彻底杜绝解析失败"
 }
