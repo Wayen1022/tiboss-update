@@ -1,7 +1,7 @@
 {
-  "versionCode": 98,
-  "versionName": "1.2.14",
+  "versionCode": 99,
+  "versionName": "1.2.15",
   "apkUrl": "https://Wayen1022.github.io/tiboss-update/tiboss.apk",
   "size": 2295300,
-  "notes": "修复自动更新安装：安装包改存电视可读路径，解决解析失败"
+  "notes": "删除题库按钮与全站按钮同宽同高；banner图标撑满右1/3，文字区铺满左半"
 }
