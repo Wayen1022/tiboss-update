@@ -1,7 +1,7 @@
 {
-  "versionCode": 87,
-  "versionName": "1.2.3",
+  "versionCode": 88,
+  "versionName": "1.2.4",
   "apkUrl": "https://Wayen1022.github.io/tiboss-update/tiboss.apk",
   "size": 2291204,
-  "notes": "修复登录页标题换行显示"
+  "notes": "技术支持模块优化：白底居中、文案修正"
 }
