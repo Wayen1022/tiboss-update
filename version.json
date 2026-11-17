@@ -1,7 +1,7 @@
 {
-  "versionCode": 90,
-  "versionName": "1.2.6",
+  "versionCode": 91,
+  "versionName": "1.2.7",
   "apkUrl": "https://Wayen1022.github.io/tiboss-update/tiboss.apk",
   "size": 2295300,
-  "notes": "修复自动更新不生效的问题"
+  "notes": "登录页标题强制单行显示"
 }
